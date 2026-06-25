@@ -1,23 +1,46 @@
+```gitignore
+# ==========================
 # Virtual Environments
+# ==========================
 ragbot/
 ragbot311/
 venv/
 .venv/
 
+# ==========================
 # Environment Variables
+# ==========================
 .env
 
-# Chroma Vector Database
+# ==========================
+# Vector Database
+# ==========================
 chroma_db/
 
+# ==========================
 # Python
+# ==========================
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyd
+*.log
 
-# VS Code
+# ==========================
+# IDE
+# ==========================
 .vscode/
+.idea/
 
-# OS Files
+# ==========================
+# Streamlit
+# ==========================
+.streamlit/
+
+# ==========================
+# Operating System Files
+# ==========================
 .DS_Store
 Thumbs.db
+desktop.ini
+```

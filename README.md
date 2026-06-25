@@ -1,10 +1,10 @@
-#  AI RAG Chatbot
+# AI RAG Chatbot
 
 An AI-powered **Retrieval-Augmented Generation (RAG)** chatbot that answers user queries using custom documents. The application combines semantic search with **Google Gemini**, **LangChain**, **Hugging Face Embeddings**, and **ChromaDB** to provide accurate, context-aware responses through an interactive Streamlit interface.
 
 ---
 
-##  Features
+## Features
 
 - Retrieval-Augmented Generation (RAG)
 - Query custom documents using natural language
@@ -12,11 +12,10 @@ An AI-powered **Retrieval-Augmented Generation (RAG)** chatbot that answers user
 - AI-powered responses using Google Gemini
 - Interactive Streamlit web interface
 - Fast document retrieval with ChromaDB
-- Docker support for containerized deployment
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 | Technology              | Purpose              |
 | ----------------------- | -------------------- |
@@ -26,11 +25,10 @@ An AI-powered **Retrieval-Augmented Generation (RAG)** chatbot that answers user
 | Google Gemini API       | Large Language Model |
 | Hugging Face Embeddings | Text Embeddings      |
 | ChromaDB                | Vector Database      |
-| Docker                  | Containerization     |
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ```text
 AI_RAG_CHATBOT/
@@ -38,7 +36,6 @@ AI_RAG_CHATBOT/
 ├── app.py
 ├── ingest.py
 ├── requirements.txt
-├── Dockerfile
 ├── .env.example
 ├── .gitignore
 └── README.md
@@ -46,7 +43,7 @@ AI_RAG_CHATBOT/
 
 ---
 
-##  Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -108,7 +105,7 @@ http://localhost:8501
 
 ---
 
-##  Demo
+## Demo
 
 ### Home Screen
 
@@ -120,7 +117,7 @@ http://localhost:8501
 
 ---
 
-##  Future Improvements
+## Future Improvements
 
 - Support for PDF, DOCX, and multiple document formats
 - Conversation memory
@@ -130,6 +127,6 @@ http://localhost:8501
 
 ---
 
-##  License
+## License
 
 This project is developed for educational and learning purposes.
