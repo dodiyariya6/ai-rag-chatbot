@@ -1,0 +1,23 @@
+# Virtual Environments
+ragbot/
+ragbot311/
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Chroma Vector Database
+chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,23 @@
+Artificial Intelligence (AI)
+
+Artificial Intelligence is the simulation of human intelligence in machines. AI enables systems to perform tasks such as reasoning, learning, problem-solving, perception, and decision-making.
+
+Machine Learning (ML)
+
+Machine Learning is a subset of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. ML algorithms improve their performance as they are exposed to more data.
+
+Deep Learning (DL)
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers. Deep Learning is widely used in image recognition, speech recognition, and natural language processing.
+
+Neural Networks
+
+A Neural Network is a computational model inspired by the human brain. It consists of input layers, hidden layers, and output layers. Neural networks are the foundation of deep learning systems.
+
+Natural Language Processing (NLP)
+
+Natural Language Processing is a branch of Artificial Intelligence that enables computers to understand, interpret, and generate human language. Applications include chatbots, language translation, and sentiment analysis.
+
+Computer Vision
+
+Computer Vision is a field of Artificial Intelligence that enables computers to interpret and understand visual information from images and videos. Applications include face recognition, object detection, and medical image analysis.
